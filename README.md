@@ -1,0 +1,2 @@
+# guess-us-states
+This game was created with the Python Turtle module. You have to guess all the states in the USA. Every time you get a state right, you earn one point. Guess all 50 states to get 50 points and win the game! In case you are stuck or just want to end the game, type Exit and the game will end. A new CSV file will be created containing all the states you did not guess, so that you can learn them and win the game next time! 
